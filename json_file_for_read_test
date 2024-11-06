@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Neeraj Chopra",
+        "country": "India",
+        "sports": [
+            {
+                "type": "Javelin Throw",
+                "events": [
+                    {
+                        "event": "Men's Javelin Throw",
+                        "medal": "Gold",
+                        "year": 2021
+                    }
+                ]
+            }
+        ],
+        "age": 25,
+        "height": 1.89,
+        "weight": 86
+    },
+    {
+        "name": "P. V. Sindhu",
+        "country": "India",
+        "sports": [
+            {
+                "type": "Badminton",
+                "events": [
+                    {
+                        "event": "Women's Singles",
+                        "medal": "Silver",
+                        "year": 2016
+                    },
+                    {
+                        "event": "Women's Singles",
+                        "medal": "Bronze",
+                        "year": 2021
+                    }
+                ]
+            }
+        ],
+        "age": 28,
+        "height": 1.79,
+        "weight": 65
+    },
+    {
+        "name": "Mary Kom",
+        "country": "India",
+        "sports": [
+            {
+                "type": "Boxing",
+                "events": [
+                    {
+                        "event": "Women's Flyweight",
+                        "medal": "Bronze",
+                        "year": 2012
+                    }
+                ]
+            }
+        ],
+        "age": 41,
+        "height": 1.58,
+        "weight": 51
+    },
+    {
+        "name": "Bajrang Punia",
+        "country": "India",
+        "sports": [
+            {
+                "type": "Wrestling",
+                "events": [
+                    {
+                        "event": "Men's Freestyle 65 kg",
+                        "medal": "Bronze",
+                        "year": 2021
+                    }
+                ]
+            }
+        ],
+        "age": 30,
+        "height": 1.66,
+        "weight": 65
+    }
+]
